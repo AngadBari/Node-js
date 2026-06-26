@@ -1,0 +1,12 @@
+{
+  "name": "01-hello",
+  "version": "1.0.0",
+  "description": "Hello word just everyone Fisrt code...",
+  "main": "helloWord.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node helloWord.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
